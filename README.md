@@ -9,7 +9,7 @@
     <a href="https://github.com/guru-dev90/progetto-ped"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://rooms-booking-system.netlify.app//">View Demo</a>
+    <a href="https://rooms-booking-system.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/guru-dev90/progetto-ped/issues">Report Bug</a>
     ·
